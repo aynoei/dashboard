@@ -10,6 +10,11 @@ endif;*/
 /* 
 __FILE__Funções do tema Dashboard
 */
+/*
+classe de funções gerais
+para chamar basta $biblioteca = new Biblioteca();
+*/
+include('assets/classes/biblioteca.php');
 
 /*************************************Funções do Menu **********************************************/
 include ('inc/funcoes_dashboard.php');//funções de uso comum do sistema Nova Jerusalem
